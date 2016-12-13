@@ -10,4 +10,4 @@ So, always listen to the stakeholder's requirements, and in doing so, you are ac
 
 Ultimately, the goal of design is help our clients businesses. And everything is actually designed, only some things are designed better.  
 
-_Special thanks to [Iryna Nezhynska](https://www.smashingmagazine.com/author/irynanezhynska/). This gitbook is based on her article  for her article on [How To Get A Logo Accepted: Eight Steps To A Better Design Workflow](https://www.smashingmagazine.com/2016/02/design-workflow/)_
+_Special thanks to [Iryna Nezhynska](https://www.smashingmagazine.com/author/irynanezhynska/). This gitbook is based on her article on [How To Get A Logo Accepted: Eight Steps To A Better Design Workflow](https://www.smashingmagazine.com/2016/02/design-workflow/)_
