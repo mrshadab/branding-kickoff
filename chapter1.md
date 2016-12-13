@@ -8,5 +8,6 @@ And that's perfectly okay, so don't take it in a negative way :)
 
 So, always listen to the stakeholder's requirements, and in doing so, you are actually solving a problem. **Design thinking is problem solving through visual communication.**
 
-Ultimately, the goal of design is help our clients businesses. And everything is actually designed, only some things are designed better. 
+Ultimately, the goal of design is help our clients businesses. And everything is actually designed, only some things are designed better.  
 
+_Special thanks to [Iryna Nezhynska](https://www.smashingmagazine.com/author/irynanezhynska/) for her article on [How To Get A Logo Accepted: Eight Steps To A Better Design Workflow](https://www.smashingmagazine.com/2016/02/design-workflow/)_
