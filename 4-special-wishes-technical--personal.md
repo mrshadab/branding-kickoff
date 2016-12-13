@@ -1,6 +1,6 @@
-# Special Wishes: Technical & Personal
+# Special Requests
 
-Word Mark, Letterform Mark, Pictorial Mark, Abstract Marks, Emblems, Characters/Mascots
+Sometimes, clients have very specific requests. 
 
 ### **Word Mark **
 
