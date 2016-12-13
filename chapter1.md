@@ -1,3 +1,11 @@
-# First Chapter
+# Defining Delivery
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+“We define “delivery” as the work sent to a client at the end of each production cycle, and the “deliverable” as that work in document format. ”
+
+### 
+
+### What is a 'Good Delivery'
+
+“..a good concept can only go so far without the proper visual presentation and storytelling”  
+“..spend the extra time to build out an in-depth and story-driven presentation”
+
