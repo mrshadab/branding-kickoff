@@ -1,13 +1,12 @@
 # Summary
 
-* [0 Intro](the-kickoff.md)
-    * [Starting the Kickoff](before-kickoff.md)
-* [1 The Creative Brief](README.md)
-    * [Brand Identity](test2.md)
-    * [Brand Personality](your-look--feel.md)
-    * [Special Requests](4-special-wishes-technical--personal.md)
-* [2 The Design Scenarios](5-how-we-work.md)
-    * [Creative Clients](dealing-with-creative-clients.md)
-    * [Vector Pushers](the-pixel-pusher.md)
-* [3 Design is a Job](chapter1.md)
+* [0 Starting The Kickoff](0-StartingTheKickoff/README.md)
+* [1 The Creative Brief](1-TheCreativeBrief/README.md)
+    * [Brand Identity](1-TheCreativeBrief/brand-identity.md)
+    * [Brand Personality](1-TheCreativeBrief/brand-presonality.md)
+    * [Special Requests](1-TheCreativeBrief/sepcial-requests.md)
+* [2 The Design Scenarios](2-DesignScenarios/README.md)
+    * [Creative Clients](2-DesignScenarios/creative-clients.md)
+    * [Vector Pushers](2-The-Design-Scenarios/vector-pushers.md)
+* [3 Design is a Job](3-DesignIsAJob/README.md)
 
