@@ -1,9 +1,7 @@
-# The Creative Brief
-Welcome to our Branding Kickoff Meeting!
+# Intro
 
->“I will ask a lot of questions. Some of them may seem to have nothing to do with our project or not be necessary for the designer to know. But all this information is crucial. It will help me create an identity that expresses who you are and tap into your customers’ emotions.”
+### Hello, there!
 
-This is what the creative brief is all about.
+You're probably freaking out already since you desperately opened this document. But fear not, this guide aims to assist you in every process of the meeting.
 
-![](/assets/how-to-get-a-logo-accepted-02.jpg)
-
+Whether you're a visual designer, a product manager or developer, leading **Kickoff Meetings** is one of the most crutial moments in branding & identity as failing to properly extract the objectives & goals and of your clients is a very vital step in the process. (Believe me, you don't want to doing 20 revisions because of mismatched client expectations)
