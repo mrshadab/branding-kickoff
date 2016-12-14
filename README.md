@@ -1,6 +1,4 @@
-# Intro
-
-### Hello, there!
+# Hello, there!
 
 You're probably freaking out already since you desperately opened this document. But fear not, this guide aims to assist you in every process of the meeting.
 
