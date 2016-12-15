@@ -5,5 +5,5 @@ Welcome to our Branding Kickoff Meeting!
 
 This is what the creative brief is all about.
 
-![](/assets/how-to-get-a-logo-accepted-02.jpg)
+![](/assets/creative-brief-02.png)
 

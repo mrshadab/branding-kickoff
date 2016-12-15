@@ -1,0 +1,25 @@
+{
+  "name": "branding-kickoff",
+  "version": "1.0.0",
+  "description": "A branding kickoff meeting guide for Symph",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gitbook-cli": "^2.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/symph-team/branding-kickoff.git"
+  },
+  "author": "SymphDesign",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/symph-team/branding-kickoff/issues"
+  },
+  "homepage": "https://github.com/symph-team/branding-kickoff#readme"
+}
