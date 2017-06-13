@@ -2,9 +2,9 @@
 
 There are some cases wherein the **client already has made a sketch of his own** or by another designer he previously hired. And what would probably happen is they want you to vectorize it.
 
-Sure there is no problem with vectorizing it (You're and expert) But the problem is the set of problem it includes like:
+Sure there is no problem with vectorizing it (You're the expert!) But the problem is the set of problem it includes like:
 
-- You have no understanding of the buisiness, the audience, the brand and its purpose.
+- You have no understanding of the business, the audience, the brand positioning and its purpose.
 
 - You have no objectives & goals of the project to effectively create effective design decisions
 
