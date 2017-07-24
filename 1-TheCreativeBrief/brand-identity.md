@@ -1,7 +1,7 @@
 # Brand Identity
 
 ### Guidelines, Not Rules
-It is very important that these are not strict **rules** but rather, guidelines that would help you identify your client and define his brand.
+It is very important that these interview questions are not strictly things to ask but rather, guidelines that would help you identify and define his brand.
 
 1. Who are you?
 2. What do you do, and why?
@@ -15,3 +15,5 @@ It is very important that these are not strict **rules** but rather, guidelines 
 10. What emotions do you want to evoke in your customers?
 
 You need to empathize with your clients. And probably some of these questions are too hard for them to answer (Believe me, even if they personally own the company) 
+
+I would recommend sending these guide questions so they could give you very insightful responses.

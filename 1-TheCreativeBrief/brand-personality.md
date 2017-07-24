@@ -20,8 +20,8 @@ b\) Are you modifying your customers?
 
 3\) We want our customers to see out brand as &lt;adjective&gt;, &lt;adjective&gt; .. &lt;adjective&gt;  
 
-
-###Select One from each side :###
+###Visual Vocabulary Reference###
+Select One from each side :
 
 modern - classic |
 masculine - feminine |

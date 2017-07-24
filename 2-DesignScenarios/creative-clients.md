@@ -4,7 +4,7 @@ Probably almost every designer has experienced this - a client watching beside y
 
 **Learn to engage with clients during brand creation**
 
-While you can let your design visually speak for you, design is still work and not a personal expression - you need to explain you're rationale as to why you are doing certain things, mixing certain colors or utilizing a certain style. Everything has a reason, and that reason should be about solving the right problems.
+While you can let your design visually speak for you, design is still work and not a personal expression - you need to explain as rationale as to why you are doing certain things, mixing certain colors or utilizing a certain style. Everything has a reason, and that reason should be about solving the right problems.
 
 You're now probably thinking, "So how do we handle this, Einstein?"
 
